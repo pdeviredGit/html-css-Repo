@@ -1,0 +1,51 @@
+*{
+	box-sizing: border-box;
+}
+.bodyDiv{
+	background-color: #F5F5DC;
+	margin: 33px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	}
+
+.headers{
+	text-align: center;
+	padding: 5px;
+}
+
+.about{
+	margin: 30px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	border :1px solid #ccc;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.thumbnail{
+	text-align: center;
+	border :1px solid #ccc;
+	border-radius: 5px;
+	margin: 33px;
+}
+.img-circle{
+	border-radius: 50%;
+	margin: 10px 10px 0px 10px;
+}
+.caption{
+	font-size: 18px;
+	background-color: DarkGrey;
+	padding: 5px;
+	margin: 0px 5px 5px 5px;
+
+}
+
+.link p{
+	text-align: center;
+	font-style: italic;
+}
+
+a{
+	text-decoration: none;
+}
